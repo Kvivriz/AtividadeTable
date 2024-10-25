@@ -34,7 +34,7 @@
 15.  
    
 
-16. Fecha a definição da função `cadastrarUsuario`.  
+16. Fecha a chaves da função `cadastrarUsuario`.  
 
 17.  
    
